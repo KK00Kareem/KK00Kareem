@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m @KK00Kareem<br>- 👀 I’m interested in ...Programming, cybersecurity and Big Data Analytics<br>- 🌱 I’m currently learning ... Database, MySQL, Algorithms and Python<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ...WhatsApp 01021191335<br>- Email: kareemw114@gmail.com
+ 👋 Hi, I’m @KK00Kareem<br>- 👀 I’m interested in ...Programming, cybersecurity and Big Data Analytics<br>- 🌱 I’m currently learning ... Database, MySQL, Algorithms, Data Analysis, Hadoop and Python<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ...WhatsApp 01021191335<br>- Email: kareemw114@gmail.com
 
 
 ## 🌐 Socials:
